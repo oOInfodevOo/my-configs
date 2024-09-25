@@ -1,0 +1,9 @@
+{
+    "Alt-/": "lua:comment.comment",
+    "CtrlDelete": "DeleteWordRight",
+    "CtrlUnderscore": "lua:comment.comment",
+    "F12": "command:makeup",
+    "F5": "command:runit",
+    "F9": "command:makeupbg",
+    "OldBackspace": "DeleteWordLeft"
+}

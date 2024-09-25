@@ -1,0 +1,45 @@
+! Font settings
+XTerm*faceName:  Fira Code
+XTerm*faceSize:  8  ! Adjust the size as needed
+
+! Background and foreground colors
+XTerm*foreground: #f8f8f2
+XTerm*background: #1c1c1c
+
+! Color palette
+XTerm*color0:  #282a36
+XTerm*color1:  #ff5555
+XTerm*color2:  #50fa7b
+XTerm*color3:  #f1fa8c
+XTerm*color4:  #bd93f9
+XTerm*color5:  #ff79c6
+XTerm*color6:  #8be9fd
+XTerm*color7:  #f8f8f2
+XTerm*color8:  #6272a4
+XTerm*color9:  #ff5555
+XTerm*color10: #50fa7b
+XTerm*color11: #f1fa8c
+XTerm*color12: #bd93f9
+XTerm*color13: #ff79c6
+XTerm*color14: #8be9fd
+XTerm*color15: #ffffff
+
+! Cursor settings
+XTerm*cursorColor: #ff79c6
+XTerm*highlightColor: #44475a
+XTerm*highlightText: #ffffff
+
+! Misc settings
+XTerm*scrollBar: true
+XTerm*rightScrollBar: true
+XTerm*VT100*saveLines: 1000
+XTerm*iconName: "xterm"
+XTerm*title: "Terminal"
+
+! Enable true color support
+XTerm*allowBold: true
+
+! Key bindings for copy and paste and font size adjustment
+XTerm*VT100*translations: #override \
+    Shift <KeyPress> C: copy-selection(CLIPBOARD) \n\
+    Shift <KeyPress> V: insert-selection(CLIPBOARD) 

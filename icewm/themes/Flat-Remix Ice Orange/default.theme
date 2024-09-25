@@ -1,0 +1,94 @@
+ThemeDescription="Replica del tema Flat-Remix-GTK adaptado a IceWM"
+
+ThemeAuthor="IamTheMasterRoy"
+
+Look=flat
+Gradients="taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm dialogbg.xpm logoutbg.xpm workspacebuttonactive.xpm menusel.xpm"
+
+RolloverButtonsSupported=1
+
+TitleBarHeight=28
+TitleBarJustify=50
+TrayDrawBevel=0
+TitleButtonsLeft="s"
+TitleButtonsRight="xmi"
+TitleButtonsSupported="sxmi"
+
+ScrollBarX=16
+ScrollBarY=16
+BorderSizeX=4
+BorderSizeY=4
+CornerSizeX=20
+CornerSizeY=20
+DlgBorderSizeX=4
+DlgBorderSizeY=4
+
+#DialogBox
+ColorDialog=                               "rgb:40/40/40"
+ColorDialogSelectionText=                  "rgb:47/47/47"
+
+#taskbar
+ColorNormalBorder="rgb:23/25/2e"
+ColorActiveBorder="rgb:23/25/2e"
+ColorActiveTitleBar="rgb:23/25/2e"
+ColorNormalTitleBar="rgb:23/25/2e"
+ColorNormalButton="rgb:23/25/2e"
+ColorNormalTitleBarText="rgb:FF/FF/FF"
+ColorActiveTitleBarText="rgb:FF/FF/FF"
+ColorNormalMenu="rgb:23/25/2e"
+ColorActiveMenuItem="rgb:fb/7c/00"
+ColorNormalMenuItemText="rgb:FF/FF/FF"
+ColorActiveMenuItemText="rgb:FF/FF/FF"
+ColorDisabledMenuItemText="rgb:38/38/38"
+ColorMoveSizeStatus="rgb:fb/7c/00"
+ColorMoveSizeStatusText="rgb:FF/FF/FF"
+ColorInputSelection="rgb:fb/7c/00"
+
+#Menu
+ColorActiveMenu=                           "rgb:fb/7c/00"
+ColorNormalMenu=                           "rgb:23/25/2e"
+ColorActiveMenuItem=                       "rgb:2C/30/32"
+ColorNormalMenuItemText=                   "rgb:F8/F9/FA"
+ColorActiveMenuItemText=                   "rgb:F8/F9/FA"
+ColorActiveMenuItemShadow=                 "rgb:FF/FF/FF"
+ColorDisabledMenuItemText=                 "rgb:38/38/38"
+ColorDisabledMenuItemShadow=               "rgb:00/00/00"
+
+#taskbar parameters
+ColorDefaultTaskBar="rgb:23/25/2e"
+ColorNormalTaskBarApp="rgb:23/25/2e"
+ColorNormalTaskBarAppText="rgb:FF/FF/FF"
+ColorActiveTaskBarApp="rgb:fb/7c/00"
+ColorActiveTaskBarAppText="rgb:FF/FF/FF"
+ColorMinimizedTaskBarApp="rgb:23/25/2e"
+ColorMinimizedTaskBarAppText="rgb:b3/b3/b3"
+
+#listbox
+ColorListBox="rgb:CC/CC/CC"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:CC/CC/FF"
+ColorListBoxSelectionText="rgb:00/00/00"
+
+#Dialog box
+ColorDialog="rgb:23/25/2e"
+
+#Tooltip text
+ColorToolTip="rgb:23/25/2e"
+ColorToolTipText="rgb:FF/FF/FF"
+
+#scrollbar
+ColorScrollBar="rgb:C0/C0/C0"
+ColorScrollBarSlider="rgb:C0/C0/C0"
+ColorScrollBarButtonArrow="rgb:C0/C0/C0"
+
+#Quick switch
+ColorQuickSwitch="rgb:23/25/2e"
+ColorQuickSwitchActive="rgb:fb/7c/00"
+ColorQuickSwitchText="rgb:FF/FF/FF"
+ColorClock="rgb:23/25/2e"
+ColorClockText="rgb:FF/FF/FF"
+
+#background parameters
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1
+#DesktopBackgroundImage="background.jpg"
